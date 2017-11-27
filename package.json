@@ -1,4 +1,7 @@
 {
   "name": "",
-  "version": ""
+  "version": "",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
 }
